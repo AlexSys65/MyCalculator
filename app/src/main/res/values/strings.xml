@@ -26,5 +26,6 @@
     <string name="sqrt">√</string>
     <string name="square">x²</string>
     <string name="genPassword">GP</string>
-    <string name="valueScreen">0</string>
+    <string name="valueScreen">10+3</string>
+    <string name="valueScreenPreResult">13</string>
 </resources>

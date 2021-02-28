@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <dimen name="padding_between_buttons">6dp</dimen>
-    <dimen name="top_margin_screen">400dp</dimen>
-    <dimen name="start_margin_screen">20dp</dimen>
+    <dimen name="top_margin_screen">390dp</dimen>
+    <dimen name="start_margin_screen">0dp</dimen>
 </resources>
